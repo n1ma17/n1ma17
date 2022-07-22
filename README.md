@@ -59,14 +59,14 @@ I am Nima Abbasi, Detail-oriented Front End Developer with more than 2 years exp
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![Nima's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=n1ma17&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Nima's github stats](https://github-readme-stats.vercel.app/api?username=n1ma17&show_icons=true&theme=tokyonight) | ![Nima GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n1ma17&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ma17&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=n1ma17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <br>
 
