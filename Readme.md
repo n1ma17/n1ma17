@@ -65,7 +65,7 @@ I am Nima Abbasi, Detail-oriented Front End Developer with more than 2 years exp
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1ma17&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=n1ma17&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-### ✍️Random Dev Quote
+###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <br>
