@@ -3,7 +3,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=n1ma17.n1ma17)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=n1ma17)
 [![Github](https://img.shields.io/github/followers/n1ma17?label=Follow&style=social)](https://github.com/n1ma17)
 
 
