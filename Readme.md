@@ -28,9 +28,13 @@ I am Nima, Front End Developer with more than 3 years experience working with HT
 - 🎨 Frameworks
 
    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=FFF)
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=FFF)
    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+   <br>
    ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![quasar](https://img.shields.io/badge/Quasar-000?style=for-the-badge&logo=quasar&logoColor=00B4FF)
    ![Vuetify](https://img.shields.io/badge/vuetify%20-0CC1F3?style=for-the-badge&logo=vuetify&logoColor=white)
    ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
