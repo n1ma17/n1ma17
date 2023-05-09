@@ -8,7 +8,7 @@
 
 
 <p> 
-I am Nima Abbasi, Detail-oriented Front End Developer with more than 2 years experience working with HTML, CSS, Javascript, and vuejs. Highly adept at independent and collaborative projects, emphasizing landing page and website development.Skilled in designing, and developing Support panels and web-based applications.
+I am Nima, Front End Developer with more than 3 years experience working with HTML, CSS, Javascript, and vuejs. Highly adept at independent and collaborative projects, emphasizing landing page and website development.Skilled in designing, and developing Support panels and web-based applications.
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -21,7 +21,7 @@ I am Nima Abbasi, Detail-oriented Front End Developer with more than 2 years exp
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    
     
